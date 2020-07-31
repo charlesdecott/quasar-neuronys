@@ -1,6 +1,6 @@
 # neuro-quasar (neuronys-quasar-demo)
 
-A Quasar Framework app
+A Quasar NEURONYS Framework app
 
 ## Install the dependencies
 ```bash
