@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-neuronysquasardemo-dev-101444-authRole",
+            "UnauthRoleArn": "arn:aws:iam::527034694658:role/amplify-neuronysquasardemo-dev-101444-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::527034694658:role/amplify-neuronysquasardemo-dev-101444-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-neuronysquasardemo-dev-101444-deployment",
+            "UnauthRoleName": "amplify-neuronysquasardemo-dev-101444-unauthRole",
+            "StackName": "amplify-neuronysquasardemo-dev-101444",
+            "StackId": "arn:aws:cloudformation:eu-west-1:527034694658:stack/amplify-neuronysquasardemo-dev-101444/e4d4f400-d305-11ea-8c87-069423446670",
+            "AmplifyAppId": "d1kplzvtetl36o"
+        },
+        "categories": {
+            "auth": {
+                "neuronysquasardemo6254496d": {}
+            }
+        }
+    }
+}
